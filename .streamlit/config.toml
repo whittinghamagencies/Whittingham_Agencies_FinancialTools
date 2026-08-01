@@ -1,0 +1,12 @@
+# Streamlit configuration for the Whittingham Agencies Financial Tools app.
+# Theme colors mirror the brand palette used in the HTML tools.
+
+[theme]
+primaryColor = "#00558c"           # navy
+backgroundColor = "#fbfaf6"        # paper
+secondaryBackgroundColor = "#f4f1e8"  # amount-bg / panel
+textColor = "#1c2b36"              # ink
+font = "sans serif"
+
+[server]
+headless = true
